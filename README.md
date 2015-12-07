@@ -5,3 +5,8 @@
 Chakra 将于 2016 年 1 月开源, 至此四大浏览器的JS引擎将全部 Open Source \o/
 
 欢迎 `fork` & `Pull Request`!
+
+## 相关的项目
+
+* Mozilla Firefox 的 JS 引擎: [SpiderMonkey Internals](https://github.com/lazyparser/spidermonkey-internals)
+* Google Chrome 的 JS 引擎: [V8 Internals](https://github.com/lazyparser/v8-internals)
