@@ -8,6 +8,8 @@ Chakra 将于 2016 年 1 月开源, 至此四大浏览器的JS引擎将全部 Op
 
 ## 资料链接
 
+[Chakra源代码地址](https://github.com/Microsoft/Chakracore)
+
 [ChakraCore GitHub repository is now open](https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/)
 
 
