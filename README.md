@@ -6,6 +6,11 @@ Chakra 将于 2016 年 1 月开源, 至此四大浏览器的JS引擎将全部 Op
 
 欢迎 `fork` & `Pull Request`!
 
+## 资料链接
+
+[ChakraCore GitHub repository is now open](https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/)
+
+
 ## 相关的项目
 
 * Mozilla Firefox 的 JS 引擎: [SpiderMonkey Internals](https://github.com/lazyparser/spidermonkey-internals)
