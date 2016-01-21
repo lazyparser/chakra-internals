@@ -16,6 +16,8 @@ Chakra 将于 2016 年 1 月开源, 至此四大浏览器的JS引擎将全部 Op
 
 推特链接: [@ChakraCore](https://twitter.com/ChakraCore)
 
+[Playing with ChakraCore on Linux](http://ariya.ofilabs.com/2016/01/playing-with-chakracore-on-linux.html)
+
 ## 相关的项目
 
 * Mozilla Firefox 的 JS 引擎: [SpiderMonkey Internals](https://github.com/lazyparser/spidermonkey-internals)
