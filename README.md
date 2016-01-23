@@ -21,6 +21,9 @@ Chakra 将于 2016 年 1 月开源, 至此四大浏览器的JS引擎将全部 Op
 知乎: [如何看待微软 12 月 5 日宣布准备开源其 JavaScript 引擎 Chakra 的核心部分？](http://www.zhihu.com/question/38238351)
 目前赞同最多的是"RednaxelaFX"的回复.
 
+[Advances in JavaScript Performance in IE10 and Windows 8](https://blogs.msdn.microsoft.com/ie/2012/06/13/advances-in-javascript-performance-in-ie10-and-windows-8/)
+2012年的老帖子, 里面有提到到Chakra的垃圾收集等实现. (从RednaxelaFX的回复中翻出来的.)
+
 ## 相关的项目
 
 * Mozilla Firefox 的 JS 引擎: [SpiderMonkey Internals](https://github.com/lazyparser/spidermonkey-internals)
